@@ -9,7 +9,7 @@
 ## Demo Video
 
 Check out the video demo of Enrollify on YouTube:
-[![Enrollify Demo](https://img.youtube.com/vi/qL3lIjEw_d4/0.jpg)](https://youtu.be/qL3lIjEw_d4)
+[![Enrollify Demo](https://github.com/benny-png/Enrollify-a-JAVA-Swing-Registration-APP/blob/main/JAVA%20(1).gif)
 
 ## Features
 
