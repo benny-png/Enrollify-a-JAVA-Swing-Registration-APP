@@ -6,6 +6,7 @@
 
 **Enrollify** is a sleek and user-friendly registration application built using JAVA Swing. This project demonstrates the creation of a robust desktop application with an intuitive interface, real-time input validation, and data storage capabilities. 
 
+
 ## Demo Video
 
 Check out the video demo of Enrollify :
