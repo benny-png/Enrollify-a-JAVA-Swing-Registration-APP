@@ -52,6 +52,8 @@ Check out the video demo of Enrollify :
 
 ### SplashScreen.java
 
+[![Enrollify Demo](https://github.com/benny-png/Enrollify-a-JAVA-Swing-Registration-APP/blob/main/loader.gif)
+
 This file contains the implementation of the splash screen that appears when the application is launched. It includes an image, dynamic text, and displays for a specified duration.
 
 ### Registration.java
